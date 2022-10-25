@@ -1,0 +1,340 @@
+<mjml>
+    <mj-body background-color="lightgray">
+        <!-- Call to Action -->
+        <mj-section background-color="lightgreen" padding="0px">
+            <mj-column>
+                <mj-text line-height="20px" font-size="12px" align="center">
+                    <strong>
+                        Email exclusive: Explore new classes with a 30-day free
+                        trial.
+                        <span style="text-decoration: underline">Start Now</span
+                        >.
+                    </strong>
+                </mj-text>
+            </mj-column>
+        </mj-section>
+
+        <!-- HEADER -->
+        <mj-section
+            background-color="#fff"
+            padding-top="10px"
+            padding-bottom="0px"
+        >
+            <mj-column padding="0px">
+                <mj-image
+                    css-class="skillshare-logo"
+                    src="https://ci5.googleusercontent.com/proxy/7c2_tAT6CTflJ0VRpeBSyo6tT4UKGHKsFTdmxCsqshM7a7jmknfaeWBE_lWJyHulwuhl9mvllMaPnBTJG4U3Oj8l5-fDYsOFRCoub5ZEYSgobT-3M1Mf=s0-d-e1-ft#https://cdn.getblueshift.com/pictures/44361/content/ss-logo-navy.png"
+                    alt="Skill Share Logo"
+                    width="70px"
+                    align="left"
+                    padding="0 40px"
+                />
+            </mj-column>
+            <mj-column padding="0px">
+                <mj-text
+                    css-class="explore"
+                    mj-class="text-center"
+                    align="right"
+                    font-size="9px"
+                >
+                    <p>Explore. Discover. Create. Play</p>
+                </mj-text>
+            </mj-column>
+        </mj-section>
+
+        <!-- DISCOVER THIS WEEK -->
+        <mj-section background-color="white" padding="0px">
+            <mj-column padding="0px 40px">
+                <mj-text padding="0px" padding-bottom="30px" align="left">
+                    <h1 style="font-size: 32px">Discover This Week</h1>
+                    <p
+                        style="
+                            font-size: 16px;
+                            color: #3722d3;
+                            line-height: 19px;
+                        "
+                    >
+                        Dive into the latest exciting classes and articles on
+                        Skillshare.
+                    </p>
+                </mj-text>
+            </mj-column>
+        </mj-section>
+
+        <!-- Classes -->
+        <mj-section
+            background-color="#3722d3"
+            background-url="https://ci6.googleusercontent.com/proxy/qfxCnHo29DRwls4XByVxl5VF-zgVF9Y7A042TmoPOX2a5AkRvBvRUeHTILceo6s_1ils4R2yRIPi6LkAWXex_apmU5UYFxhgtI2N2j8d6-Mf9JHrZivelq3t=s0-d-e1-ft#https://cdn.getblueshift.com/pictures/76546/content/classes-line-bg.png"
+            background-repeat="no-repeat"
+            background-position-x="120px"
+        >
+            <mj-column>
+                <mj-text>
+                    <h2 style="font-size: 24px; color: white">Classes</h2>
+                    <p style="font-size: 18px; color: white">
+                        Explore new topics, tools, and techniques
+                    </p>
+                </mj-text>
+                <mj-image
+                    src="https://ci3.googleusercontent.com/proxy/FMP4p6HXjZTfpOW17MG0IQO5JHsW7Q6B_v6pvCQ-Sgh1UCqzO-f5ATQM03hs9k2NcdCf_q1eRktPaAVCx1gu3Teun9W152v1YXDaZXhXvk9ET-cDwNaZnedXxRxTeQzvAACIpiTFGuMBwt4QQ92hhpokmEXWlURObsjn=s0-d-e1-ft#https://skillshare-public-email-images.s3.amazonaws.com/2022-10-18/2022-10-18-tues-esther-nariyoshi.jpeg"
+                    alt="Class"
+                />
+            </mj-column>
+        </mj-section>
+
+        <!-- Sketchbook Playlist -->
+        <mj-section background-color="white" padding="0px">
+            <mj-column background-color="white">
+                <mj-image
+                    src="https://ci5.googleusercontent.com/proxy/AJdMdj79K-9_KYo8eabjxX1aUrNJAI7FBcsoNbRGvDdzyzw1EuM0bysaQGO3qUTF4yxrbrWzuiuTV7CwQF59mAnT_SCVs16R6NgCXH8yvGEUCvHyuajgoavvbQ=s0-d-e1-ft#https://cdn.getblueshift.com/pictures/76543/content/staff-pick-label.png"
+                    alt="staff pick"
+                    width="80px"
+                    align="left"
+                    border-bottom="2px solid lightgreen"
+                    padding-top="20px"
+                    padding-bottom="0px"
+                />
+                <mj-text padding-top="0px">
+                    <h2 style="font-size: 28px">
+                        Sketchbook Playlist: Draw Travel Luggage Tags in Mixed
+                        Media
+                    </h2>
+                    <p style="line-height: 22px">
+                        Improve your illustration skills in less than 30
+                        minutes! Taken from her Sketchbook Series, artist Esther
+                        Nariyoshi explains how practicing drawing with relatable
+                        topics makes it less daunting and more enjoyable in this
+                        easy to follow class.
+                    </p>
+                </mj-text>
+                <mj-button
+                    href="#"
+                    background-color="lightgreen"
+                    color="black"
+                    font-weight="600"
+                    align="left"
+                >
+                    Explore Now
+                </mj-button>
+            </mj-column>
+        </mj-section>
+
+        <!-- ABSTRACT GRADIENTS -->
+        <mj-section padding="0px" padding-top="20px" background-color="white">
+            <mj-column padding="0px">
+                <mj-image
+                    src="https://ci6.googleusercontent.com/proxy/xfg_iGNDq8YFaoXde6Zsi0KbyibWK-d9HC504WkWYk_gcJgwvqyOwCTZofdEd1FXexa5kUeWaSc2zii9QedRnMY5M_jWmk7k6So2kxZsKUdN_FvJHJJ3Jgop1XJPQk92MpOTsWN7QiR4N4Hyaiv1STWLB5Lv-90qb1yUbVhrpg=s0-d-e1-ft#https://skillshare-public-email-images.s3.amazonaws.com/2022-10-18/2022-10-18-tues-evgeniya-and-dominic.jpeg"
+                    alt="abstract hero"
+                    padding="0px"
+                />
+            </mj-column>
+        </mj-section>
+
+        <!--Your Step-by-Step Guide to Creating Organic Vibrant Artworks -->
+        <mj-section background-color="white" padding="0px">
+            <mj-column background-color="white">
+                <mj-image
+                    src="https://ci5.googleusercontent.com/proxy/AJdMdj79K-9_KYo8eabjxX1aUrNJAI7FBcsoNbRGvDdzyzw1EuM0bysaQGO3qUTF4yxrbrWzuiuTV7CwQF59mAnT_SCVs16R6NgCXH8yvGEUCvHyuajgoavvbQ=s0-d-e1-ft#https://cdn.getblueshift.com/pictures/76543/content/staff-pick-label.png"
+                    alt="staff pick"
+                    width="80px"
+                    align="left"
+                    border-bottom="2px solid lightgreen"
+                    padding-top="20px"
+                    padding-bottom="0px"
+                />
+                <mj-text padding-top="0px">
+                    <h2 style="font-size: 28px">
+                        Your Step-by-Step Guide to Creating Organic Vibrant
+                        Artworks
+                    </h2>
+                    <p style="line-height: 22px">
+                        Graphic designers Evgeniya & Dominic Righini-Brand cover
+                        how to develop sophisticated compositions. Learn how to
+                        use beautiful color transitions and elaborate organic
+                        distortions in this step-by-step Adobe Illustrator
+                        class.
+                    </p>
+                </mj-text>
+                <mj-button
+                    href="#"
+                    background-color="lightgreen"
+                    color="black"
+                    font-weight="600"
+                    align="left"
+                >
+                    Explore Now
+                </mj-button>
+            </mj-column>
+        </mj-section>
+
+        <!-- AUDIO BASICS -->
+        <mj-section padding="0px" padding-top="20px" background-color="white">
+            <mj-column padding="0px">
+                <mj-image
+                    src="https://ci6.googleusercontent.com/proxy/pp3xaNp-kPlYpiUlO8JY_4IFufq80y32zr7oDqA7x20CeLWCcCOL9_Vct37wRi3astsgPIQVEeZuSgUrCTnU-dIvtsiW1osQPC5dCWZ5SNQDwgrmB57XjtGUfH6nZ0W3RqlvCviIYi34Bly63DFsiT_zezaPPkMHPA=s0-d-e1-ft#https://skillshare-public-email-images.s3.amazonaws.com/2022-10-18/2022-10-18-tues-mike-and-matty.jpeg"
+                    alt="abstract hero"
+                    padding="0px"
+                />
+            </mj-column>
+        </mj-section>
+
+        <!-- Record Exceptional Audio For Film and Podcasts-->
+        <mj-section background-color="white" padding="0px">
+            <mj-column background-color="white">
+                <mj-image
+                    src="https://ci5.googleusercontent.com/proxy/AJdMdj79K-9_KYo8eabjxX1aUrNJAI7FBcsoNbRGvDdzyzw1EuM0bysaQGO3qUTF4yxrbrWzuiuTV7CwQF59mAnT_SCVs16R6NgCXH8yvGEUCvHyuajgoavvbQ=s0-d-e1-ft#https://cdn.getblueshift.com/pictures/76543/content/staff-pick-label.png"
+                    alt="staff pick"
+                    width="80px"
+                    align="left"
+                    border-bottom="2px solid lightgreen"
+                    padding-top="20px"
+                    padding-bottom="0px"
+                />
+                <mj-text padding-top="0px">
+                    <h2 style="font-size: 28px">
+                        Record Exceptional Audio For Film and Podcasts
+                    </h2>
+                    <p style="line-height: 22px">
+                        Nothing is worse than trying to listen to valuable
+                        content that’s distorted or hard to hear. Learn how to
+                        get the best possible recordings so your end product
+                        will delight viewers and listeners with YouTubers Mike
+                        and Matty.
+                    </p>
+                </mj-text>
+                <mj-button
+                    background-color="lightgreen"
+                    color="black"
+                    font-weight="600"
+                    align="left"
+                    href="#"
+                >
+                    Explore Now
+                </mj-button>
+            </mj-column>
+        </mj-section>
+
+        <!-- EXPLORE MORE CLASSES -->
+        <mj-section background-color="#3722d3">
+            <mj-column>
+                <mj-button
+                    background-color="lightgreen"
+                    color="black"
+                    font-weight="600"
+                    href="#"
+                >
+                    Explore More Classes
+                </mj-button>
+            </mj-column>
+        </mj-section>
+
+        <!-- BLOG -->
+        <mj-section
+            background-color="#fe4a4a"
+            background-url="https://ci6.googleusercontent.com/proxy/qfxCnHo29DRwls4XByVxl5VF-zgVF9Y7A042TmoPOX2a5AkRvBvRUeHTILceo6s_1ils4R2yRIPi6LkAWXex_apmU5UYFxhgtI2N2j8d6-Mf9JHrZivelq3t=s0-d-e1-ft#https://cdn.getblueshift.com/pictures/76546/content/classes-line-bg.png"
+            background-repeat="no-repeat"
+            background-position-x="120px"
+        >
+            <mj-column>
+                <mj-text padding="0px 20px">
+                    <h2 style="font-size: 24px; color: white">Blog</h2>
+                    <p style="font-size: 18px; color: white">
+                        Updates & ideas from the Skillshare community
+                    </p>
+                </mj-text>
+            </mj-column>
+        </mj-section>
+
+        <!-- BLOG 2-->
+        <mj-section background-color="#fe4a4a" padding="20px">
+            <mj-column padding="0px">
+                <mj-image
+                    src="https://ci3.googleusercontent.com/proxy/8TYtH8K7pLFAkktN7Si_eH4RGZfJLTp-ezFjWYCAJjGxRNoPrbGSJoNRVzoP1MTUyrb9zIuYwdeyeQXe9mNMyaFMufeRqLvsgEHPENX9ey2wB9VkvFbucO5qTcdeevdgm63TSetY6Tg8r5OGxvW8=s0-d-e1-ft#https://skillshare-public-email-images.s3.amazonaws.com/2022-10-18/2022-10-18-blog-figma.png"
+                    alt="computer"
+                    padding="0px"
+                    align="left"
+                    width="600px"
+                />
+            </mj-column>
+            <mj-column background-color="white">
+                <mj-text padding-top="0px" padding-bottom="0px">
+                    <p
+                        style="
+                            font-weight: 600;
+                            padding-bottom: 5px;
+                            border-bottom: lightgreen 2px solid;
+                            width: fit-content;
+                        "
+                    >
+                        GUIDES
+                    </p>
+                    <h2 style="font-size: 20px">
+                        A Complete Figma Tutorial for Beginners
+                    </h2>
+                </mj-text>
+                <mj-button
+                    background-color="lightgreen"
+                    color="black"
+                    font-weight="600"
+                    align="left"
+                    padding-top="0px"
+                    href="#"
+                >
+                    Learn More
+                </mj-button>
+            </mj-column>
+        </mj-section>
+
+        <!-- BLOG 3-->
+        <mj-section background-color="#fe4a4a" padding="20px">
+            <mj-column padding="0px">
+                <mj-image
+                    src="https://ci3.googleusercontent.com/proxy/tF0nW9lHj9RMNCta-p57QaSvTUnLPiYzXV_0a8K3N-BxZCREpp9Ltu5n1udYQDwBemSP5QBm3AWfDYWTNNcriOJ6JuzpK6A6dAmNibTWhdAekGAXAfeaNnU52JKGzRL9dN8o3j_JAW9jue5puS9hUOzd5RYtqbY=s0-d-e1-ft#https://skillshare-public-email-images.s3.amazonaws.com/2022-10-18/2022-10-18-blog-paper-flowers.png"
+                    alt="computer"
+                    padding="0px"
+                    align="left"
+                    width="600px"
+                />
+            </mj-column>
+            <mj-column background-color="white">
+                <mj-text padding-top="0px" padding-bottom="0px">
+                    <p
+                        style="
+                            font-weight: 600;
+                            padding-bottom: 5px;
+                            border-bottom: lightgreen 2px solid;
+                            width: fit-content;
+                        "
+                    >
+                        GUIDES
+                    </p>
+                    <h2 style="font-size: 20px">
+                        DIY Paper Flowers: How To Craft Realistic Florals
+                    </h2>
+                </mj-text>
+                <mj-button
+                    background-color="lightgreen"
+                    color="black"
+                    font-weight="600"
+                    align="left"
+                    padding-top="0px"
+                    href="#"
+                >
+                    Learn More
+                </mj-button>
+            </mj-column>
+        </mj-section>
+
+        <!-- Explore the Blog -->
+        <mj-section background-color="#fe4a4a" padding="20px">
+            <mj-column>
+                <mj-button
+                    href="https://www.skillshare.com/en/blog"
+                    background-color="#3722d3"
+                >
+                    Explore the Blog
+                </mj-button>
+            </mj-column>
+        </mj-section>
+    </mj-body>
+</mjml>
